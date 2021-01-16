@@ -1,10 +1,10 @@
 ### Hi there, I'm Camilo Blanco 👋
 
-<p><em>I am a <strong> Full Stack Web Developer</strong> graduated from ![Henry](https://soyhenry.com/), which is a  new bootcamp in Argentina. Learning and practicing HTML, CSS, React, Redux, Bootstrap, Node.js, Sequelize ORM, Express.js & PostgreSQL. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team.</em></p>
+<p><em>I am a <strong> Full Stack Web Developer</strong> graduated from Henry), which is a  new bootcamp in Argentina. Learning and practicing HTML, CSS, React, Redux, Bootstrap, Node.js, Sequelize ORM, Express.js & PostgreSQL. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team.</em></p>
 
 ----------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ![SAP]
+- 🔭 I’m currently working on <strong>SAP</strong>
 - 🌱 I’m currently learning Spartacus architecture, Angular, TypeScript, SAP Commerce Cloud, Cypress, Jasmine, Protractor, Karma & Secure Software Development Cycle.
 - 📫  How to reach me: cblancodelavega@gmail.com
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/camilo-blanco-de-la-vega-51a6a51b0/) LinkedIn
