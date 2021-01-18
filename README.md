@@ -9,6 +9,7 @@
 - 📫  How to reach me: cblancodelavega@gmail.com
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/camilo-blanco-de-la-vega-51a6a51b0/) LinkedIn
 - ⚡ Fun fact: I like playing Rugby 🏉
+- 🌎 I speak Spanish, English & French
 
 Languages and Tools:
 
