@@ -2,6 +2,8 @@
 
 <p><em>I am a <strong> Full Stack Web Developer</strong> graduated from Henry, which is a new bootcamp in Argentina. I have experience in HTML, CSS, React, Redux, Bootstrap, Node.js, Sequelize ORM, Express.js & PostgreSQL. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team.</em></p>
 
+[My Portfolio](https://modest-yalow-20efb0.netlify.app)
+
 ----------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on <strong>SAP</strong>
