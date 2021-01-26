@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on <strong>SAP</strong>
-- 🌱 I’m currently learning Spartacus architecture, Angular, TypeScript, SAP Commerce Cloud, Cypress, Jasmine, Protractor, Karma & Secure Software Development Cycle.
+- 🌱 I’m currently learning SAP Cloud Platform, SAP UI5 & Fiori
 - 📫  How to reach me: cblancodelavega@gmail.com
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/camilo-blanco-de-la-vega-51a6a51b0/) LinkedIn
 - ⚡ Fun fact: I like playing Rugby 🏉
