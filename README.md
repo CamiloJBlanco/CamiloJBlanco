@@ -1,13 +1,13 @@
 ### Hi there, I'm Camilo Blanco 👋
 
-<p><em>I am a <strong> Full Stack Web Developer</strong> graduated from Henry, which is a new bootcamp in Argentina. I have experience in HTML, CSS, React, Redux, Bootstrap, Node.js, Sequelize ORM, Express.js & PostgreSQL. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team.</em></p>
+<p><em>I am a <strong> Full Stack Web Developer</strong> graduated from Henry, which is a new bootcamp in Argentina. I have experience in HTML, CSS, React, Redux, Bootstrap, Node.js, Sequelize ORM, Express.js, PostgreSQL & Drupal 9. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team.</em></p>
 
 [My Portfolio](https://modest-yalow-20efb0.netlify.app)
 
 ----------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on <strong>SAP</strong>
-- 🌱 I’m currently learning SAP Cloud Platform, SAP UI5 & Fiori
+- 🔭 I’m currently working on <strong>AGESIC (Presidency of Uruguay)</strong>
+- 🌱 I’m currently learning Solidity
 - 📫  How to reach me: cblancodelavega@gmail.com
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/camilo-blanco-de-la-vega-51a6a51b0/) LinkedIn
 - ⚡ Fun fact: I like playing Rugby 🏉
