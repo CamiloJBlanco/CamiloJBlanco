@@ -6,7 +6,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-- ⚡ I’m currently working on DualBoot Partners
+- ⚡ I’m currently working on Dualboot Partners
 - 🔭 Used to work on <strong>AGESIC (Presidency of Uruguay)</strong> & in <strong>Copter Exchange</strong> 
 - 🌱 I’m currently learning Solidity
 - 📫  How to reach me: cblancodelavega@gmail.com
