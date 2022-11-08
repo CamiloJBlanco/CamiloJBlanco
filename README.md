@@ -1,6 +1,6 @@
 ### Hi there, I'm Camilo Blanco 👋
 
-<p><em>I am a <strong> Full Stack Web Developer</strong> graduated from Henry, which is a new bootcamp in Argentina. I have experience in HTML, CSS, (React, Redux, Next.js, PHP, Node.js, Express.js, PostgreSQL, MongoDB, Typescript, Drupal 9 & Solidity. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team.</em></p>
+<p><em>I am a <strong> Full Stack Web Developer</strong> graduated from Henry, which is a new bootcamp in Argentina. I have experience in HTML, CSS, React, Redux, Next.js, PHP, Node.js, Express.js, PostgreSQL, MongoDB, Typescript, Drupal 9 & Solidity. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team.</em></p>
 
 [My Portfolio](https://modest-yalow-20efb0.netlify.app) 
 
